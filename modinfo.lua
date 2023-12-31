@@ -1,12 +1,12 @@
 -- Description
 name = "play-pair-of-birds"
-description = ""
-author = ""
+description = "Button to match pair in snowbird memory minigame."
+author = "livinglikeakite"
 version = "1.0"
 forumthread = ""
 
---icon_atlas = "modicon.xml"
---icon = "modicon.tex"
+icon_atlas = "modicon.xml"
+icon = "modicon.tex"
 
 -- Compatibility
 dst_compatible = true
@@ -21,5 +21,3 @@ client_only_mod = true
 
 -- Config
 server_filter_tags = {name, author}
-
-configuration_options = { }
